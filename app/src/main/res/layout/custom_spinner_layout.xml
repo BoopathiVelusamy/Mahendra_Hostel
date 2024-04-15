@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:singleLine="true"
+    android:drawableRight="@drawable/ic_baseline_arrow_drop_down_24"
+    android:drawablePadding="10dp"
+    android:paddingStart="10dp"
+    android:textSize="16sp"
+    android:textColor="@color/black"
+    android:gravity="center|start"
+    android:fontFamily="@font/basic"
+    android:paddingEnd="10dp"
+    android:paddingRight="10dp">
+
+</TextView>

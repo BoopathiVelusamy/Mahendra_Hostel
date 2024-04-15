@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/framelayout"
+    tools:context=".Splash_Screen">
+
+    <TextView
+        android:id="@+id/text6"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="90dp"
+        android:text="A"
+        android:textColor="@color/mahendra_logo_color"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="90dp"
+        android:text="R"
+        android:textColor="@color/mahendra_logo_color"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="90dp"
+        android:text="D"
+        android:textColor="@color/mahendra_logo_color"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="90dp"
+        android:text="N"
+        android:textColor="@color/mahendra_logo_color"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="90dp"
+        android:text="E"
+        android:textColor="@color/mahendra_logo_color"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="90dp"
+        android:text="H"
+        android:textColor="@color/mahendra_logo_color"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/text0"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="90dp"
+        android:text="A"
+        android:textColor="@color/mahendra_logo_color"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginRight="90dp"
+        android:text="M"
+        android:textColor="@color/mahendra_logo_color"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/text_hostel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="170dp"
+        android:text="Hostel Management System(MHMS)"
+        android:textColor="@color/black"
+        android:fontFamily="@font/basic"
+        android:textSize="20dp"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:id="@+id/img_logo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@mipmap/logo_small"
+        android:layout_gravity="center"/>
+
+</FrameLayout>

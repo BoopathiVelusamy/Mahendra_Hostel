@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appcolor">#3e1386</color>
+    <color name="appcolor1">#866ea5</color>
+    <color name="appcolor2">#51b474</color>
+    <color name="appcolor3">#a29cb2</color>
+    <color name="appcolor4">#e0cb31</color>
+    <color name="appcolor5">#c8c4cc</color>
+    <color name="appcolor6">#c0a5e6</color>
+    <color name="appcolor7">#dcd389</color>
+    <color name="appcolor8">#f7f2f8</color>
+    <color name="cadview_bg_color1">#EBEBEB</color>
+    <color name="grey">#E88B8A8A</color>
+    <color name="royalblue">#246EE9</color>
+    <color name="mahendra_logo_color">#2a66af</color>
+
+    <color name="active_color">#25AD47</color>
+    <color name="scarletred">#FF2400</color>
+    <color name="colornew">#271E79</color>
+</resources>
